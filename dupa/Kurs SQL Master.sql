@@ -1,3 +1,3 @@
 SELECT *
 FROM Pracownicy
-WHERE Imie = 'Anna'
+WHERE Imie = 'Ania'
